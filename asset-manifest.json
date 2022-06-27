@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ez-com/static/css/main.4cc4da4d.css",
-    "main.js": "/ez-com/static/js/main.68c548db.js",
-    "static/js/787.fe7e50ee.chunk.js": "/ez-com/static/js/787.fe7e50ee.chunk.js",
-    "static/media/login.png": "/ez-com/static/media/login.4e1ba40507d195dd2f1a.png",
-    "index.html": "/ez-com/index.html",
-    "main.4cc4da4d.css.map": "/ez-com/static/css/main.4cc4da4d.css.map",
-    "main.68c548db.js.map": "/ez-com/static/js/main.68c548db.js.map",
-    "787.fe7e50ee.chunk.js.map": "/ez-com/static/js/787.fe7e50ee.chunk.js.map"
+    "main.css": "/MiniProject2/static/css/main.4cc4da4d.css",
+    "main.js": "/MiniProject2/static/js/main.3572ca87.js",
+    "static/js/787.fe7e50ee.chunk.js": "/MiniProject2/static/js/787.fe7e50ee.chunk.js",
+    "static/media/login.png": "/MiniProject2/static/media/login.4e1ba40507d195dd2f1a.png",
+    "index.html": "/MiniProject2/index.html",
+    "main.4cc4da4d.css.map": "/MiniProject2/static/css/main.4cc4da4d.css.map",
+    "main.3572ca87.js.map": "/MiniProject2/static/js/main.3572ca87.js.map",
+    "787.fe7e50ee.chunk.js.map": "/MiniProject2/static/js/787.fe7e50ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4cc4da4d.css",
-    "static/js/main.68c548db.js"
+    "static/js/main.3572ca87.js"
   ]
 }
