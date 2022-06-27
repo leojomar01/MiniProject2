@@ -1,9 +1,0 @@
-.navbar {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-}
-
-.navbar .header {
-  color: red;
-}
